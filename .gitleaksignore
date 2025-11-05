@@ -1,0 +1,11 @@
+53ed81665b6009f82607de6a23afd9f77c9e8191:internal/http/testkey.pem:private-key:1
+ad57a133fb37152275eafd6e1213e85a8ae75907:cosign.key:private-key:1
+ad57a133fb37152275eafd6e1213e85a8ae75907:internal/pipe/sign/testdata/cosign/cosign.key:private-key:1
+73b74a31697a2e1fb855f695aad1c45eae7d107f:internal/pipe/blob/testdata/credentials.json:private-key:5
+73b74a31697a2e1fb855f695aad1c45eae7d107f:internal/pipe/blob/blob_test.go:generic-api-key:280
+73b74a31697a2e1fb855f695aad1c45eae7d107f:internal/pipe/blob/blob_test.go:generic-api-key:303
+64b1f14a86ec359bfc07d871e959653ada540b4c:internal/pipeline/s3/s3_test.go:generic-api-key:124
+5e6301254ff007f2f5e13d24e83da0c57e398fef:pipeline/s3/s3_test.go:generic-api-key:91
+f7dbb05f29ee080509a63d89270680fb4e334c57:pipeline/s3/testdata/config/config.json:generic-api-key:5
+f7dbb05f29ee080509a63d89270680fb4e334c57:pipeline/s3/s3_test.go:generic-api-key:107
+f7dbb05f29ee080509a63d89270680fb4e334c57:pipeline/s3/pipeline/s3/testdata/config/config.json:generic-api-key:5
